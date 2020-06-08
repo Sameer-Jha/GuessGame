@@ -1,3 +1,6 @@
+#! /usr/bin/env python
+
+# Imports
 from random import randint
 from os import system
 from time import sleep
